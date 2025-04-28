@@ -2,6 +2,8 @@
 
 A Boolean Information Retrieval System with a graphical user interface that supports standard Boolean queries and proximity searches over a collection of document abstracts.
 
+![image](https://github.com/user-attachments/assets/50ed7f18-bfd5-4a57-95e0-72e6ce52ea91)
+
 ## Features
 
 - **Boolean Query Processing**: Supports AND, OR, NOT operators with proper precedence handling
